@@ -1,0 +1,10 @@
+git config --global user.name 
+wilfred okogie
+
+
+ git config --global user.email
+globalokogiestaff@gmail.com
+
+git config --local user.name 
+
+when set this can over ride your global details 
