@@ -8,3 +8,16 @@ globalokogiestaff@gmail.com
 git config --local user.name 
 
 when set this can over ride your global details 
+
+section 2 
+
+we have done :
+Tracking , staging , commiting 
+First repo
+config file
+first commit 
+commit ID 
+Making Amend file
+ignore file 
+useful short cut on VS code
+reverting and restoring commits and staging 
