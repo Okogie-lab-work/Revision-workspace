@@ -21,3 +21,14 @@ Making Amend file
 ignore file 
 useful short cut on VS code
 reverting and restoring commits and staging 
+
+
+
+Section three
+
+Branching 
+Merging 
+Rebrasing 
+Merge conflicts 
+
+
