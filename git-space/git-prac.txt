@@ -8,6 +8,3 @@ globalokogiestaff@gmail.com
 git config --local user.name 
 
 when set this can over ride your global details 
-
-
-Most of the this we do in git are all updated 
