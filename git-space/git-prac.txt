@@ -13,8 +13,8 @@ section 2
 
 we have done :
 Tracking , staging , commiting 
-First repository 
-config file + 2 
+First repo
+config file
 first commit 
 commit ID 
 Making Amend file
