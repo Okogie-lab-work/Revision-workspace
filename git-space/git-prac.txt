@@ -13,7 +13,7 @@ section 2
 
 we have done :
 Tracking , staging , commiting 
-First repo
+First repository 
 config file
 first commit 
 commit ID 
